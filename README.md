@@ -10,7 +10,6 @@
 I am a 15-year-old Full-Stack Developer from Ukraine 🇺🇦, currently living in Spain 🇪🇸. I have been coding for almost 4 years, and I enjoy building scalable applications, designing robust database architectures, and constantly learning new tools to solve complex problems.
 
 ### 🚀 About Me:
-- 🔭 Currently working on **[your current project here - или удали эту строку]**
 - 🌱 Deepening my knowledge in microservices and advanced backend architecture.
 - 💡 Interested in backend development, API design, and mobile development.
 - 🧠 Have a fundamental understanding of **higher mathematics and algorithms**.
